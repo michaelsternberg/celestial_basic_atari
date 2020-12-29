@@ -8,7 +8,7 @@ The book "Celestial BASIC" is available at [archive.org](https://archive.org/det
 
 ### Usage
 
-If using the emulator `atari800` and assuming it is properly configured with system ROMs and you have a ROM image for the Microsoft BASIC II cartridge, then
+If using the emulator `atari800` and assuming it is properly configured with system ROMs, etc and you have a binary image of the Microsoft BASIC II cartridge, then
 
 ```
 $ atari800 -atari -nobasic -cart MicrosoftBASIC2.bin -cart-type 2 celestial_basic_side_1.atr
