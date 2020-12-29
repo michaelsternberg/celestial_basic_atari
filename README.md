@@ -1,5 +1,5 @@
 # celestial_basic_atari
-Type-in astronomy programs from the book "Celestial BASIC" by Eric Burgess (hastily) converted to Microsoft BASIC II for the Atari 800 microcomputer.
+Type-in astronomy programs from the book "Celestial BASIC" by Eric Burgess (hastily) converted to Microsoft BASIC II for the ATARI 800 microcomputer.
 
 Floppy disk images can be found on the [releases](https://github.com/michaelsternberg/celestial_basic_atari/releases/tag/v0.0.1-alpha) page.
 
